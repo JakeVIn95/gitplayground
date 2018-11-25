@@ -1,7 +1,7 @@
 <?php
 $test ='Jake';
 $change = 'Is good';
-$work = '';
+$work = 'Hard';
 
 echo $test;
 
