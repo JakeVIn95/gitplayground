@@ -7,7 +7,7 @@
 <?php
 class checkage
 {
-public $age;
+//public $age;
 
    public function idCheck($age)
   {
