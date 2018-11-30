@@ -30,14 +30,14 @@
           <li>
             <strong>doggy drink:</strong>
 <?php
-if ($daywalk ['true'])
-{
-echo 'Text Sent';
-}
+  if ($daywalk ['true'])
+    {
+      echo 'Text Sent';
+    }
 else
-{
-echo 'No Text';
-}
+  {
+    echo 'No Text';
+  }
  ?>
           </li>
       </ul>
