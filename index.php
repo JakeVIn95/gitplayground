@@ -9,10 +9,7 @@ $age = [
   '25',
   '40',
   '30'
-
   ];
-
-
 
 //$age = 19;
 //$lage = 18;
@@ -21,5 +18,4 @@ $id = new checkage();
 $id->idCheck($age);
 
 //idCheck($age);
-
  ?>

@@ -8,8 +8,7 @@
 class checkage
 {
 //public $age;
-//comments would go here 
-
+//comments would go here
    public function idCheck($age)
   {
     foreach ($age as $ages)
@@ -23,7 +22,7 @@ class checkage
     echo nl2br("Sorry but no \n");
     }
       }
-    }
+  }
 }
 ?>
 </body>
