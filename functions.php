@@ -8,6 +8,7 @@
 class checkage
 {
 //public $age;
+//comments would go here 
 
    public function idCheck($age)
   {
