@@ -1,8 +1,5 @@
 <?php
 
-
-
-
 require 'functions.php';
 const l_age = '20';
 
@@ -15,11 +12,10 @@ $age = [
   '18'
   ];
 
-//$age = 19;
-//$lage = 18;
+//Tidy me up.
 
 $id = new checkage();
 $id->idCheck($age);
 
-//idCheck($age);
+//Last tidy up 
  ?>
