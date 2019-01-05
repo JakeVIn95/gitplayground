@@ -4,12 +4,12 @@ require 'functions.php';
 const l_age = '20';
 
 $age = [
-  '20',
-  '5',
-  '25',
-  '40',
-  '30',
-  '18'
+  '29',
+  '9',
+  '29',
+  '49',
+  '39',
+  '19'
   ];
 
 //Tidy me up.
@@ -17,5 +17,5 @@ $age = [
 $id = new checkage();
 $id->idCheck($age);
 
-//Last tidy up 
+//Last tidy up
  ?>
