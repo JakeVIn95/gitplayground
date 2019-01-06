@@ -4,7 +4,7 @@ require 'functions.php';
 const l_age = '20';
 
 $age = [
-  '21',
+  '22',
   '9',
   '20',
   '40',
